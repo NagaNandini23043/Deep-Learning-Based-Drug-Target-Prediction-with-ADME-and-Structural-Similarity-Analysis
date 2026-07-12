@@ -43,7 +43,7 @@ The platform accepts a **SMILES representation** of a molecule and performs:
 # System Architecture
 
 <p align="center">
-<img src="pipeline/Architecture.png" width="900">
+<img src="Pipeline/Architecture.png" width="900">
 </p>
 
 
