@@ -433,7 +433,7 @@ Results/Dashboard.png
 ```
 AI-Drug-Platform/
 ├── app.py
-├── backend/
+├── Backend/
 │   ├── predictor.py
 │   ├── model.py
 │   ├── train_model.py
@@ -444,7 +444,7 @@ AI-Drug-Platform/
 │   ├── synthetic_access.py
 │   ├── adme.py
 │   └── ...
-├── ui/
+├── UI/
 │   ├── dashboard.py
 │   ├── prediction_page.py
 │   ├── toxicity_page.py
@@ -536,7 +536,7 @@ streamlit run app.py
 
 # Author
 
-**K. Chaitanya Reddy**
+**J Naga Nandini**
 
 B.Tech Artificial Intelligence & Data Science
 
