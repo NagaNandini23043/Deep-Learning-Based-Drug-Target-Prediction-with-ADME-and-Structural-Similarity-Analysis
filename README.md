@@ -1,2 +1,0 @@
-# Deep-Learning-Based-Drug-Target-Prediction-with-ADME-and-Structural-Similarity-Analysis
-An end-to-end AI-driven drug discovery platform that predicts biological targets, evaluates drug-likeness, assesses toxicity, analyzes molecular similarity, visualizes 3D structures, retrieves bioactivity information, searches scientific literature and estimates synthetic accessibility from a single SMILES string.
